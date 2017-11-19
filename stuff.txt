@@ -1,0 +1,6 @@
+
+//to run server
+live-server public
+
+//to run babel-watch
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
