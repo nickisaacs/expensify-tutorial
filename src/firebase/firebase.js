@@ -30,6 +30,7 @@ export {firebase,database as default};
 //     console.log('this failed',e);
 //   });
 
+//to remove
 
 // database.ref('isSingle').remove().then(()=>{
 //     console.log('removed');
